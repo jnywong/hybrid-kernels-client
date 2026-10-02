@@ -1,0 +1,4 @@
+jupyterlab-hybrid-kernels
+jupyterlab
+jupyterlite-core
+jupyterlite-pyodide-kernel

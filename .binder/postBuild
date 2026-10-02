@@ -1,0 +1,2 @@
+jupyter lite build --output-dir dist
+pwd
